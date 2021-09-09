@@ -1,2 +1,5 @@
 # git
-- Jacob Smith
+ Jacob Smith
+Xavier Matheson
+Saimye Dennis
+seth martin
